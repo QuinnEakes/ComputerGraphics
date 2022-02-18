@@ -12,7 +12,7 @@ namespace Engine
 
     int Window::Create(std::string _windowName, int _screenWidth, int _screenHeight, unsigned int _currentFlags)
     {
-        // if you wanted you application to suport multiple rendering apis 
+        // if you wanted your application to support multiple rendering apis 
         // you would not want to hard code it here
         Uint32 flags = SDL_WINDOW_OPENGL;
 
