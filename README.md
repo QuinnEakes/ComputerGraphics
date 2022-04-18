@@ -2,6 +2,8 @@
 
 git clone --recursive https://github.com/QuinnEakes/ComputerGraphics.git
 
+git submodule update --init --recursive
+
 ## DEPENDENCES
 
 - LINUX
