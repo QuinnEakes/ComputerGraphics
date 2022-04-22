@@ -19,3 +19,6 @@
 [submodule "external/assimp"]
 	path = external/assimp
 	url = https://github.com/assimp/assimp.git
+[submodule "freetype2"]
+	path = freetype2
+	url = https://github.com/aseprite/freetype2.git
